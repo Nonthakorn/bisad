@@ -1,0 +1,22 @@
+body {
+    background-image: url("C:/Users/User/Pictures/walpaper/win1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+}
+.simple-form{
+    text-align: center;
+    margin: 100px 400px;
+}
+#registration{
+    width: 100%;
+    background-color: #051019;
+    opacity: 0.8;
+    padding: 50px 0px;
+}
+#rd{
+    color: #ffffff;
+}
+#button{
+    padding: 10px;
+    border-radius: 5px;
+}
